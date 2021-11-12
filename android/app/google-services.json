@@ -1,18 +1,27 @@
 {
   "project_info": {
     "project_number": "349837848439",
+    "firebase_url": "https://thechat-f9772-default-rtdb.europe-west1.firebasedatabase.app",
     "project_id": "thechat-f9772",
     "storage_bucket": "thechat-f9772.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:349837848439:android:ccb5f47e13f727240e3b72",
+        "mobilesdk_app_id": "1:349837848439:android:78a7a184509d242d0e3b72",
         "android_client_info": {
           "package_name": "com.thechat"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "349837848439-fqu0eqaltdojmd5kfim9ffvqan5emjce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thechat",
+            "certificate_hash": "2e084b5237eabfdd2c47046984c5d0686cab81c1"
+          }
+        },
         {
           "client_id": "349837848439-irh1o4ns85rvr9vcs08rahdpmdtvjpll.apps.googleusercontent.com",
           "client_type": 3
@@ -29,6 +38,13 @@
             {
               "client_id": "349837848439-irh1o4ns85rvr9vcs08rahdpmdtvjpll.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "349837848439-abhkm9mh69segkfvprrl5fttt7octdpk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thechat"
+              }
             }
           ]
         }
